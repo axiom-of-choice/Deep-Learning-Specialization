@@ -4,3 +4,5 @@ matplotlib
 pillow
 scipy
 sklearn
+ipykernel
+tensorflow
