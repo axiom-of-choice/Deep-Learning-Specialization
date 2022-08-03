@@ -6,3 +6,4 @@ scipy
 sklearn
 ipykernel
 tensorflow
+pandas
