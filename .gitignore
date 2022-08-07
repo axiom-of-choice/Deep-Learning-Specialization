@@ -130,3 +130,7 @@ dmypy.json
 
 *.hidden
 logs/
+C4_Convolutional_Neural_Networks/W2_Deep_Convolutional_Models/W2A1/resnet50.h5
+C4_Convolutional_Neural_Networks/W2_Deep_Convolutional_Models/W2A1/datasets/test_signs.h5
+C4_Convolutional_Neural_Networks/W2_Deep_Convolutional_Models/W2A1/datasets/train_signs.h5
+C4_Convolutional_Neural_Networks/W2_Deep_Convolutional_Models/W2A2/dataset
