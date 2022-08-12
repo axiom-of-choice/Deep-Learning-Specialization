@@ -138,3 +138,4 @@ C4_Convolutional_Neural_Networks/W3_Object_Detection/W3A1_Autonomous_Driving_Car
 *.mp4
 C4_Convolutional_Neural_Networks/W3_Object_Detection/W3A2_Image_Segmentation_U-Net/data/CameraRGB
 C4_Convolutional_Neural_Networks/W3_Object_Detection/W3A2_Image_Segmentation_U-Net/data
+C4_Convolutional_Neural_Networks/W3_Object_Detection/W3A2_Image_Segmentation_U-Net/unet-model.h5
