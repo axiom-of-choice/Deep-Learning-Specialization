@@ -7,3 +7,4 @@ sklearn
 ipykernel
 tensorflow
 pandas
+imageio
