@@ -1,10 +1,10 @@
-h5py==3.7.0
-numpy==1.23.0
+h5py==2.10.0
+numpy==1.18.4
 matplotlib
 pillow
 scipy
 sklearn
 ipykernel
-tensorflow
+tensorflow == 2.3.0
 pandas
 imageio
