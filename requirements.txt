@@ -8,3 +8,6 @@ ipykernel
 tensorflow == 2.3.0
 pandas
 imageio
+pydub
+mido
+music21
