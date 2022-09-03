@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {},
+	"python.defaultInterpreterPath": "c:/dev/ala/venv/Scripts/python.exe"
+
+}

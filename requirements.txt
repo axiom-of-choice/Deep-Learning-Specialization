@@ -11,3 +11,6 @@ imageio
 pydub
 mido
 music21
+faker
+tqdm
+babel
